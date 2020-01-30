@@ -1,6 +1,6 @@
 # test_project
 
-A new Flutter project.
+A new Flutter project. Usig stateful and stateless Widgets.
 
 ## Getting Started
 
