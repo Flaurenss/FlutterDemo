@@ -1,7 +1,7 @@
 # test_project
 
 A new Flutter project. 
-Use of basic stateless and stateful Widgets
+Use of basic stateless and stateful Widgets.
 
 ## Getting Started
 
